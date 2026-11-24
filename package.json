@@ -1,0 +1,9 @@
+{
+  "name": "custom-ecommerce-inventory",
+  "version": "1.0.0",
+  "description": "MERN E-Commerce models with custom variable and collection names",
+  "main": "models/InventoryItem.js",
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
